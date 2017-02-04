@@ -9,4 +9,5 @@
 7.	Art56SmallGear
 8.	Art4BodyFan
 9.	Art4MotorGear
-
+10.	CommonBearingFixThrough
+11.	Art4OptoFix
