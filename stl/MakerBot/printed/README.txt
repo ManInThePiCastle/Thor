@@ -11,3 +11,6 @@
 9.	Art4MotorGear
 10.	CommonBearingFixThrough
 11.	Art4OptoFix
+12.	Art3Optodisk
+13.	Art1GearMotor
+14.	Art56Interface
