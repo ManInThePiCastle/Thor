@@ -14,3 +14,6 @@
 12.	Art3Optodisk
 13.	Art1GearMotor
 14.	Art56Interface
+15.	Art4MotorFix
+16.	Art56MotorHolderA
+17.	Art56MotorHolderB
