@@ -18,3 +18,4 @@
 16.	Art56MotorHolderA
 17.	Art56MotorHolderB
 18. Art2MotorGear
+19.	Art4BearingRing
