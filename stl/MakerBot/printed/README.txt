@@ -17,5 +17,6 @@
 15.	Art4MotorFix
 16.	Art56MotorHolderA
 17.	Art56MotorHolderB
-18. Art2MotorGear
+18.	Art2MotorGear
 19.	Art4BearingRing
+20.	Art3Pulley (not a great print)
