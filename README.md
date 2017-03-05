@@ -1,8 +1,6 @@
-# This is a fork of https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=0ahUKEwjg_v7E4uPRAhXCi1QKHRGVD9wQFggcMAA&url=https%3A%2F%2Fgithub.com%2FAngelLM%2FThor&usg=AFQjCNF1XJUlvJEOhMlzaztCLU2Qwr9TgA
+# Thor Robot for Chess Playing Pi Project
 
-## We are considering using this design for the chess playing robot.  The only challenge will be to try to extend the range of the robot.
-
-
+This is a fork of the original [Thor](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=0ahUKEwjg_v7E4uPRAhXCi1QKHRGVD9wQFggcMAA&url=https%3A%2F%2Fgithub.com%2FAngelLM%2FThor&usg=AFQjCNF1XJUlvJEOhMlzaztCLU2Qwr9TgA)
 
 <img src="doc/logo.png" width="500" align="center">
 
