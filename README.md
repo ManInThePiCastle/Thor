@@ -2,8 +2,6 @@
 
 This is a fork of the original [Thor](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=0ahUKEwjg_v7E4uPRAhXCi1QKHRGVD9wQFggcMAA&url=https%3A%2F%2Fgithub.com%2FAngelLM%2FThor&usg=AFQjCNF1XJUlvJEOhMlzaztCLU2Qwr9TgA)
 
-<img src="doc/logo.png" width="500" align="center">
-
 Thor is an Open Source and printable robotic arm with six degrees of freedom.
 Its configuration (yaw-roll-roll-yaw-roll-yaw) is the same one that is used on most manipulator robots that currently exist in the market.
 In its upright position, Thor is about 625mm and it can lift objects up to 750 grams.
@@ -20,10 +18,6 @@ In terms of licenses, I wanted this project to be Open Source because I want any
 
 More about this project on the [Hackaday post](https://hackaday.io/project/12989-thor)!
 
-## Community  
-If you are interested in this project, please consider joining [our mail list](https://groups.google.com/forum/#!forum/thor-opensource-3d-printable-robotic-arm).
-
-
 # Repository Index
 * [doc](https://github.com/AngelLM/Thor/tree/developer/doc) - Misc documentation files
 * [electronics](https://github.com/AngelLM/Thor/tree/developer/electronics) - ControlPCB & SensorPCB KiCAD, gerbers & GCODE files
@@ -37,6 +31,7 @@ If you are interested in this project, please consider joining [our mail list](h
 * firmware - The firmware used in this project is a GRBL modification that can be found on [this repository](https://github.com/AngelLM/grbl)
 * [FAQ](https://github.com/AngelLM/Thor/blob/developer/FAQ.md) - Frequently Asked Questions
 * [ThorBuilders](https://github.com/AngelLM/Thor/blob/developer/ThorBuilders.md) - List of Thor builders
+
 # Contributors
 
 * [AngelLM](https://github.com/AngelLM): Main author. Released the project as Open Source and is the current maintainer.
@@ -44,14 +39,6 @@ If you are interested in this project, please consider joining [our mail list](h
 * [Danny-VdH](https://github.com/Danny-VdH): Check his modifications & features at [Hackaday post: Thor robot with addons and GUI](https://hackaday.io/project/16665-thor-robot-with-addons-and-gui)!
 
 Do not hesitate on contributing to this project!
-
-
-# Thanks
-
-Until March of 2016 this project was sponsored by BQ, I would like to thank the company and my colleagues because without them, this project would have not been possible.
-Also I would like to thank Miguel Hernando, who was my Final Degree Project tuthor, for his help and awesome tips.
-Of course, I also would like to thank my friends and family for the support and the hours of listening.
-
 
 # License
 
