@@ -3,9 +3,9 @@
 * 4x Kg of filament
 
 ## Stepper Motors
-* 2x Nema 17; L=40mm; Holding torque: 39.22 N.cm
+* 1x Nema 17; L=40mm; Holding torque: 39.22 N.cm
 * 3x Nema 17; L=34mm; 5:1 mechanical reduction; Holding torque: 121.2 N.cm
-* 2x Nema 17; L=34mm; Holding torque: 21.57 N.cm
+* 3x Nema 17; L=34mm; Holding torque: 21.57 N.cm
 
 ## Belts & Pulleys
 * 2x GT2 Closed belt 208mm (104teeth)
@@ -14,7 +14,7 @@
 * 2x GT2x40 Pulley
 
 ##Bearings
-* 1x 16014zz Bearing
+* 1x 16014 Bearing
 * 11x 625ZZ Bearing
 * 2x MF84ZZ Bearing
 
